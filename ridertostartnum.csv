@@ -1,19 +1,19 @@
 ﻿id;number;rider
-1;15;Zmarzlik
-2;5;Kurtz
-3;13;Holder
-4;16;Lebedevs
-5;2;Lambert
+1;5;Zmarzlik
+2;11;Kurtz
+3;9;Holder
+4;10;Lebedevs
+5;8;Lambert
 6;14;Fricke
-7;4;Doyle
-8;1;Kubera
-9;12;Madsen
-10;10;Jepsen Jensen
-11;9;Dudek
-12;8;Woryna
-13;6;Parnitskyi
-14;3;Thomsen
-15;7;Kvech
-16;17;Klima
-17;18;Nejezchleba
-18;11;Bednar
+7;16;Doyle
+8;7;Kubera
+9;6;Madsen
+10;3;Jepsen Jensen
+11;13;Dudek
+12;12;Woryna
+13;4;Parnitskyi
+14;15;Thomsen
+15;2;Kvech
+16;1;Klima
+17;17;Nejezchleba
+18;18;Bednar
