@@ -1,7 +1,7 @@
 ﻿id;name;lastName;nation;number;age
 1;Bartosz;Zmarzlik;Polska;95;31
 2;Brady;Kurtz;Australia;101;30
-3;Jack;Holder;Australia;25;30
+3;Kai;Huckenbeck;Niemcy;744;33
 4;Andzejs;Lebedevs;Łotwa;29;32
 5;Robert;Lambert;Wielka Brytania;505;28
 6;Max;Fricke;Australia;46;30
@@ -14,6 +14,6 @@
 13;Nazar;Parnitskyi;Ukraina;785;20
 14;Anders;Thomsen;Dania;105;32
 15;Jan;Kvech;Czechy;201;25
-16;Daniel;Klima;Czechy;17;23
-17;Adam;Nejezchleba;Czechy;18;17
-18;Adam;Bednar;Czechy;16;19
+16;Piotr;Pawlicki;Polska;777;31
+17;Marcin;Nowak;Polska;17;31
+18;Szymon;Szlauderbach;Polska;18;27
